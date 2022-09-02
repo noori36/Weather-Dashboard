@@ -14,13 +14,15 @@ SO THAT I can plan a trip accordingly
 
 ### Screenshots
 
-<br><img src="./Assets/images/screen1.png" alt="screenshot of starting page" width="350"/>
-<br><img src="./Assets/images/screen2.png" alt="screenshot of starting page" width="350"/>
-<br><img src="./Assets/images/screen3.png" alt="screenshot of starting page" width="350"/>
+<br><img src="./Assets/images/screenshot1.png" alt="screenshot of starting page" width="350"/>
+<br><img src="./Assets/images/screenshot2.png" alt="screenshot of seach city and show weather" width="350"/>
+<br><img src="./Assets/images/screenshot3.png" alt="screenshot of search history page" width="350"/>
 
 ### Links
 
-<br>Link to view <a href="https://lemming97.github.io/Weather_Dashboard/">Weather Dashboard</a>
+[The URL of the functional, deployed application.](https://noori36.github.io/CodeQuiz/)
+
+[The URL of the GitHub repository.](https://github.com/noori36/CodeQuiz)
 
 ## Tech
 
@@ -30,5 +32,9 @@ SO THAT I can plan a trip accordingly
 - HTML
 - CSS
 - JavaScript
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
