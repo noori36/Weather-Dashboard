@@ -20,7 +20,7 @@ SO THAT I can plan a trip accordingly
 
 ### Links
 
-[The URL of the functional, deployed application.](https://noori36.github.io/CodeQuiz/)
+[The URL of the functional, deployed application.](https://noori36.github.io/Weather-Dashboard/)
 
 [The URL of the GitHub repository.](https://github.com/noori36/Weather-Dashboard)
 
