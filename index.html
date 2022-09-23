@@ -17,34 +17,38 @@
     <title>Weather Dashboard</title>
 </head>
 
-<body>
+<body class="flex-column min-100-vh">
 
 
-    <div class="container-fluid">
-        <div class="row navbar navbar-dark bg-dark">
+    <!-- <div class="container-fluid"> -->
+        <!-- <div class="row navbar navbar-dark bg-dark">
             <div class="col-12 text-center">
                 <h1>Weather Dashboard</h1>
             </div>
-        </div>
+        </div> -->
+    <header class="app-title">
+        <h1><i class="fab fa-github"></i> Weather Dashboard</h1>
+    </header>
 
+    <div class="container-fluid"></div>
         <div class="row">
             <div class="col-3 bg-light pb-2 pt-3" id="searchResults">
                 <div class="row">
                     <div class="col-12">
-                        <h4>Search for a City:</h4>
+                        <h3 class="card-header text-uppercase">Search for a City</h3>
                     </div>
                 </div>
+
 
                 <div class="row">
                     <div class="col-12">
                         <div class="input-group">
-                            <input class="form-control" type="text" id="enterCity"
-                                placeholder="Enter city to view weather">
-                            <button type="button" id="searchBtn" class="btn btn-primary"><i
-                                    class="fa-solid fa-magnifying-glass"></i></button>
+                            <input class="form-control" type="text" id="enterCity" placeholder="Search..">
+                            <button type="submit" id="searchBtn" class="btn">Search</button>
                         </div>
                     </div>
                 </div>
+
 
                 <div class="row mt-3">
                     <div class="col-12">
