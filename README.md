@@ -11,13 +11,6 @@ I WANT to see the weather outlook for multiple cities
 SO THAT I can plan a trip accordingly
 ```
 
-
-### Screenshots
-
-<br><img src="./Assets/images/screenshot1.png" alt="screenshot of starting page" width="350"/>
-<br><img src="./Assets/images/screenshot2.png" alt="screenshot of seach city and show weather" width="350"/>
-<br><img src="./Assets/images/screenshot3.png" alt="screenshot of search history page" width="350"/>
-
 ### Links
 
 [The URL of the functional, deployed application.](https://noori36.github.io/Weather-Dashboard/)
